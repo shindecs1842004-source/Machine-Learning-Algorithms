@@ -1,1 +1,148 @@
 
+# 📊 Logistic Regression
+
+This repository demonstrates the implementation of **Logistic Regression**, one of the most fundamental supervised machine learning algorithms used for **binary classification** problems.
+
+The project covers both the theoretical concepts and practical implementation using Python and Scikit-learn.
+
+---
+
+# 📌 Project Objective
+
+The objective of this project is to understand how Logistic Regression works, apply it to a real-world classification problem, and evaluate its performance using various classification metrics.
+
+---
+
+# 📚 Topics Covered
+
+- Introduction to Classification
+- Why Linear Regression cannot solve Classification
+- Logistic Regression Intuition
+- Sigmoid Function
+- Odds and Log-Odds
+- Decision Boundary
+- Feature Scaling
+- Binary Classification
+- Model Training
+- Prediction
+- Model Evaluation
+
+---
+
+# 📂 Project Structure
+
+```
+02_Logistic_Regression/
+│
+├── data/
+│   └── breast_cancer.csv
+│
+├── Logistic_Regression.ipynb
+│
+├── README.md
+│
+└── images/
+```
+
+---
+
+# 📁 Dataset
+
+**Dataset Name**
+
+Breast Cancer Wisconsin Diagnostic Dataset
+
+**Source**
+
+Scikit-Learn Dataset Library
+
+**Samples**
+
+569
+
+**Features**
+
+30 Numerical Features
+
+**Target Classes**
+
+- 0 → Malignant
+- 1 → Benign
+
+---
+
+# 🛠️ Technologies Used
+
+- Python
+- NumPy
+- Pandas
+- Matplotlib
+- Seaborn
+- Scikit-learn
+- Jupyter Notebook
+
+---
+
+# ⚙️ Machine Learning Workflow
+
+1. Import Libraries
+2. Load Dataset
+3. Data Understanding
+4. Exploratory Data Analysis (EDA)
+5. Data Preprocessing
+6. Train-Test Split
+7. Feature Scaling
+8. Model Training
+9. Prediction
+10. Model Evaluation
+11. Performance Analysis
+
+---
+
+# 📈 Evaluation Metrics
+
+The model is evaluated using:
+
+- Accuracy Score
+- Confusion Matrix
+- Precision
+- Recall
+- F1 Score
+- ROC Curve
+- AUC Score
+
+---
+
+# 🎯 Learning Outcomes
+
+After completing this project, you will understand:
+
+- Binary Classification
+- Logistic Regression Mathematics
+- Sigmoid Function
+- Decision Boundary
+- Feature Scaling
+- Probability Prediction
+- Classification Metrics
+- Model Evaluation
+
+---
+
+# 🚀 Future Improvements
+
+- Hyperparameter Tuning
+- Cross Validation
+- ROC Curve Visualization
+- Precision-Recall Curve
+- Logistic Regression from Scratch using NumPy
+
+---
+
+# 👨‍💻 Author
+
+**Chandrakant Shinde**
+
+Aspiring Data Scientist
+
+GitHub: https://github.com/YOUR_USERNAME
+LinkedIn: https://linkedin.com/in/YOUR_PROFILE
